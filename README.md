@@ -153,7 +153,8 @@ visualize_denoising(model, test_loader)
 <img width="1681" height="171" alt="Screenshot 2026-03-07 044317" src="https://github.com/user-attachments/assets/02eb9eb3-f2c7-403b-bfcf-1afc3d5a6d8f" />
 
    
-<img width="1655" height="546" alt="Screenshot 2026-03-07 044342" src="https://github.com/user-attachments/assets/57e8c6ee-1739-4dd5-b877-41b488a47152" />
+<img width="712" height="547" alt="Screenshot 2026-03-07 050351" src="https://github.com/user-attachments/assets/2b873bf1-aad0-4eed-8997-641a5431e409" />
+
 
 
 
